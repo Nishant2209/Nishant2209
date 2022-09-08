@@ -35,3 +35,7 @@
 <p align="center">
   <img src="https://github.com/Nishant2209/Nishant2209/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<p align="center">
+   <img src="Satoru Gojo.png" alt="Gojo Satoru">
+</p>
