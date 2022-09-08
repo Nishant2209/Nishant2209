@@ -18,7 +18,7 @@
 - Nothing much but i can code.
 - Very much interested in Data Science 
 - Competed in hackathons
-- Anime Weeb
+- Anime Weeb (Gojo Satoru OP 🙇‍♂️🙇‍♂️)
 - Pizza is love
 
 
