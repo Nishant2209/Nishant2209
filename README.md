@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-   <img src="Satoru Gojo.jpeg" alt="Gojo Satoru">
+   <img src="https://i.pinimg.com/564x/a8/2a/d3/a82ad37dffb1fa0332f1ca3f56a04898.jpg" alt="Gojo Satoru">
 </p>
