@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm Nishant </h1>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/nishant-kumar-singh-1252nks/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3%"></a>
-<a href="https://www.instagram.com/nks_0609/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="3%"></a>
+<a href="https://www.instagram.com/nishant_ks_0609/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="3%"></a>
 <a href="https://twitter.com/Nishant_1252" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="3%"></a>
 </p>
 <h3 align="center">A Passionate Front-end Web Developer</h3>
